@@ -1,4 +1,4 @@
-baseURL = 'https://ins-courses.vercel.app/'
+baseURL = 'https://yisiliu.io/blockchain101'
 languageCode = 'zh-hans'
 title = '初链那件小事 - INS 国际讲座系列 #21'
 theme = "courses"
